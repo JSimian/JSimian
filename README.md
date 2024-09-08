@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JSimian/JSimian/blob/main/Images/40A2%20-%20JSimianAlphaCommSam.png?raw=true" alt="" width="320" /></p>
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JSimian/JSimian/blob/main/Images/40A2%20-%20JSimianAlphaCommSam.png?raw=true" alt="" width="320" /></p>
 <hr />
 
 Hi there 👋
