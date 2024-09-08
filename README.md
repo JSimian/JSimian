@@ -9,9 +9,9 @@ My name is Simian.
 🖥️ - My main programming language is C#<br />
 💻 - [website: simian.com.br](https://simian.com.br)<br />
 <br /><br />
-🐧 - Ubuntu Server 23.04 at My Oracle cloud<br />
-🪟 - Windows 11 at My PC
-
+🐧 - Ubuntu Server 23.04 (Oracle cloud)<br />
+🪟 - Windows 11 (PC)<br />
+📱 - Android 12 (Mobile)
 
 <!--
 **JSimian/JSimian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
