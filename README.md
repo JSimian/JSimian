@@ -1,4 +1,14 @@
-## Hi there 👋
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JSimian/JSimian/blob/main/Images/40A2%20-%20JSimianAlphaCommSam.png?raw=true" alt="" width="320" /></p>
+<hr />
+
+Hi there 👋
+My name is Simian.
+
+🐒 - I'm a Furry (Monkey Fursona)
+💾 - I like to do scipts to automate or fix things
+🖥️ - My main programming language is C#
+💻 - [website: simian.com.br](https://simian.com.br)
+
 
 <!--
 **JSimian/JSimian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
