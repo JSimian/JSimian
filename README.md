@@ -1,13 +1,13 @@
-<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JSimian/JSimian/blob/main/Images/40A2%20-%20JSimianAlphaCommSam.png?raw=true" alt="" width="320" /></p>
-<hr />
+<p style="text-align: center;"><img style="align: center;display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JSimian/JSimian/blob/main/Images/40A2%20-%20JSimianAlphaCommSam.png?raw=true" alt="" width="320" /></p>
+<hr>
 
 Hi there 👋
 My name is Simian.
 
-🐒 - I'm a Furry (Monkey Fursona)
-💾 - I like to do scipts to automate or fix things
-🖥️ - My main programming language is C#
-💻 - [website: simian.com.br](https://simian.com.br)
+🐒 - I'm a Furry (Monkey Fursona)<br />
+💾 - I like to do scipts to automate or fix things<br />
+🖥️ - My main programming language is C#<br />
+💻 - [website: simian.com.br](https://simian.com.br)<br />
 
 
 <!--
