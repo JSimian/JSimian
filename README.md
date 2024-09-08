@@ -5,9 +5,12 @@ Hi there 👋
 My name is Simian.
 
 🐒 - I'm a Furry (Monkey Fursona)<br />
-💾 - I like to do scipts to automate or fix things<br />
+💾 - I like to do scripts to automate or fix things<br />
 🖥️ - My main programming language is C#<br />
 💻 - [website: simian.com.br](https://simian.com.br)<br />
+<br /><br />
+🐧 - Ubuntu Server 23.04 at My Oracle cloud<br />
+🪟 - Windows 11 at My PC
 
 
 <!--
