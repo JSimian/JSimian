@@ -1,5 +1,5 @@
 <p style="text-align: center;"><img style="align: center;display: block; margin-left: auto; margin-right: auto;" src="https://github.com/JSimian/JSimian/blob/main/Images/40A2%20-%20JSimianAlphaCommSam.png?raw=true" alt="" width="320" /></p>
-<hr>
+<hr style="height:1px;">
 
 Hi there 👋
 My name is Simian.
