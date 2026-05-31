@@ -10,8 +10,8 @@ My name is Simian.
 💻 - [website: simian.com.br](https://simian.com.br)<br />
 <br /><br />
 🐧 - Debian 13 Server homelab with a modded Dell Wyse 3040<br />
-🪟 - Windows 11 (PC)<br />
-📱 - Android 15 (Mobile)
+🐧 - Fedora 44 -- KDE Plasma (PC)<br />
+📱 - Android 16 (Mobile)
 
 <!--
 **JSimian/JSimian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
